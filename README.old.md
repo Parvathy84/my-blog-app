@@ -1,2 +1,2 @@
-# my-blog-app
+# test-blog-app
 test
